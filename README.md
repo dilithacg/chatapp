@@ -1,6 +1,9 @@
 # chatapp
 
 A new Flutter project.
+flutter pub get 
+flutter run
+flutter test
 
 ## Getting Started
 
