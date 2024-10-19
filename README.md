@@ -1,11 +1,12 @@
 # chatapp
 
 A new Flutter project.
+
+
+## Getting Started
 flutter pub get 
 flutter run
 flutter test
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
